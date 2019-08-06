@@ -33,4 +33,5 @@ namespace FactoryMethod
 			Console.ReadKey();
 		}
 	}
+	//Factory method
 }
